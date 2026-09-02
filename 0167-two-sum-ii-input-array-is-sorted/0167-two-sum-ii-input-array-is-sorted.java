@@ -2,7 +2,6 @@ class Solution{
 
 public int[] twoSum(int[] nums, int tar) {
     //TWO POINTER APPROCH
-    int[] ans = new int[2];
     int l = 0;
     int r = nums.length - 1;
     while(l < r){
