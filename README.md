@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/U-jjwal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/U-jjwal/DSA/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -44,4 +45,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/U-jjwal/DSA/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/U-jjwal/DSA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/U-jjwal/DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/U-jjwal/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
